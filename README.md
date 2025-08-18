@@ -2,9 +2,24 @@
 
 [**CartoMapQA: A Fundamental Benchmark Dataset Evaluating
 Vision-Language Models on Cartographic Map Understanding**](<>)
-This repo contains evaluation code for the paper "CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding"
 
-SpatialRGPT is a powerful vision-language model adept at understanding both 2D and 3D spatial arrangements. It can process any region proposal, such as boxes or masks, and provide answers to complex spatial reasoning questions.
+<p align="center">
+  <img src="demo_images/logo.png" width="15%"/>
+</p>
+
+This repo contains evaluation code for the paper "_CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding_"
+
+_**CartoMapQA**_ offers a valuable tool for guiding future improvements in Vision-Language Models. 
+Ultimately, it supports the development of models better equipped for real-world applications that depend on robust and reliable map understanding, such as navigation, geographic search, and urban planning.
+
+We are working hard to make the source code and benchmark dataset publicly available in this repos ASAP. 
+
+- <ins>_**Paper ArXiv**_</ins>: coming soon ...
+
+- <ins>_**Dataset download link**_</ins>: Coming soon ...
 
 ## 📢 News
-- **August-5-25**- We're thrilled to share that CartoMapQA has been accepted to SIGSPATIAL 2024! 🎊
+- **August-5-25**- We're thrilled to share that _**CartoMapQA**_ has been accepted to _**SIGSPATIAL 2025**_ (A rank conf., acceptance rate 26.0%) 🎊
+
+## 📜 Citation
+Coming soon ...
