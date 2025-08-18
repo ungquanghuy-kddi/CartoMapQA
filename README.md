@@ -4,7 +4,7 @@
 Vision-Language Models on Cartographic Map Understanding**](<>)
 
 <p align="center">
-  <img src="demo_images/logo.png" width="15%"/>
+  <img src="cartomapqa_teaser_figure.png" width="15%"/>
 </p>
 
 This repo contains evaluation code for the paper "_CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding_"
