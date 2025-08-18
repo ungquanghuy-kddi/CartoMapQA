@@ -1,4 +1,4 @@
-# CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding
+# CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding (SIGSPATIAL'25)
 
 ## 💡 Introduction
 
