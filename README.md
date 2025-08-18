@@ -3,9 +3,7 @@
 [**CartoMapQA: A Fundamental Benchmark Dataset Evaluating
 Vision-Language Models on Cartographic Map Understanding**](<>)
 
-<p align="center">
-  <img src="cartomapqa_teaser_figure.png" width="15%"/>
-</p>
+![alt text](cartomapqa_teaser_figure.png)
 
 This repo contains evaluation code for the paper "_CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding_"
 
