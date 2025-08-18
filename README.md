@@ -16,7 +16,7 @@ We are working hard to make the source code and benchmark dataset publicly avail
 - <ins>_**Dataset download link**_</ins>: Coming soon ...
 
 ## 📢 News
-- **August-5-25**- We're thrilled to share that _**CartoMapQA**_ has been accepted to _**SIGSPATIAL 2025**_ (A rank conf., acceptance rate 26.0%) 🎊
+- **August-5-25**- We're thrilled to share that _**CartoMapQA**_ has been accepted to _**SIGSPATIAL 2025**_ (rank A, acceptance rate 26.0%) 🎊
 
 ## 📜 Citation
 Coming soon ...
