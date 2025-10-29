@@ -18,7 +18,7 @@ Ultimately, it supports the development of models better equipped for real-world
 ## 📢 News
 - **August-05-25**- We're thrilled to share that _**CartoMapQA**_ has been accepted to _**SIGSPATIAL 2025**_ (Best Paper Candidate) 🎊
 
-## Baselines
+## LVLMs for evaluation
 We evaluated 15 Large Vision-Lanuage Models (LVLMs) on understanding cartographic maps using our CartoMapQA:
 - Open-source LVLMs:
 1. [Llama-3.2-11B](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct)
