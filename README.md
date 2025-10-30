@@ -12,11 +12,11 @@ Ultimately, it supports the development of models better equipped for real-world
 - <ins>_**Paper ArXiv**_</ins>: Coming soon ...
 
 ## CartoMapQA Dataset
-- The full dataset can be download at this [link](https://github.com/ungquanghuy-kddi/CartoMapQA-Dataset).
+- The full dataset can be download at this repos [link](https://github.com/ungquanghuy-kddi/CartoMapQA-Dataset).
 - The downloaded "zip" file should be unziped in the folder "Dataset" for further evaluation using this source code.
 
 ## 📢 News
-- **August-05-25**- We're thrilled to share that _**CartoMapQA**_ has been accepted to _**SIGSPATIAL 2025**_ (Best Paper Candidate) 🎊
+- **August-05-25**- We're thrilled to share that _**CartoMapQA**_ has been accepted to _**SIGSPATIAL 2025**_ and it is selected as one of _**Best Paper Candidates**_ 🎊
 
 ## LVLMs for evaluation
 We evaluated 15 Large Vision-Lanuage Models (LVLMs) on understanding cartographic maps using our CartoMapQA:
