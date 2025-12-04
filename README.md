@@ -64,6 +64,7 @@ python evaluate_all_tasks.py --model_name gemini-2.5-pro-preview-03-25
 ```
 
 ## 📜 Citation
+```bibtex
 @misc{ung2025cartomapqafundamentalbenchmarkdataset,
       title={CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding}, 
       author={Huy Quang Ung and Guillaume Habault and Yasutaka Nishimura and Hao Niu and Roberto Legaspi and Tomoki Oya and Ryoichi Kojima and Masato Taya and Chihiro Ono and Atsunori Minamikawa and Yan Liu},
@@ -73,3 +74,4 @@ python evaluate_all_tasks.py --model_name gemini-2.5-pro-preview-03-25
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2512.03558}, 
 }
+```
