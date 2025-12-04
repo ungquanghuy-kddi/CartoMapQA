@@ -1,15 +1,13 @@
-# CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding (SIGSPATIAL'25)
+# CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding (SIGSPATIAL'25) 
 
 ## 💡 Introduction
 
 ![alt text](cartomapqa_teaser_figure.png)
 
-This repo contains evaluation code for the paper "_CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding_"
+This repo contains evaluation code for the paper "_CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding_" [ArXiv version](https://arxiv.org/abs/2512.03558)
 
 _**CartoMapQA**_ offers a valuable tool for guiding future improvements in Vision-Language Models. 
 Ultimately, it supports the development of models better equipped for real-world applications that depend on robust and reliable map understanding, such as navigation, geographic search, and urban planning.
-
-- <ins>_**Paper ArXiv**_</ins>: Coming soon ...
 
 ## CartoMapQA Dataset
 - The full dataset can be download at this repos [link](https://github.com/ungquanghuy-kddi/CartoMapQA-Dataset).
